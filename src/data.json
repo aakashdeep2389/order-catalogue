@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "_id": "dress1",
+      "category": "JEANS",
+      "image": "/images/dress1.jpg",
+      "title": "Mens Jeans",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur natus laudantium eum cupiditate quae soluta recusandae ratione exercitationem modi. Sapiente debitis nisi beatae nemo odio vel adipisci voluptatem quisquam doloribus.",
+      "availableSizes": ["Nike", "HM", "zara", "addidas"],
+      "price": 290.9
+    },
+    {
+      "_id": "dress2",
+      "category": "shirt",
+      "image": "/images/dress2.jpg",
+      "title": "lower",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur natus laudantium eum cupiditate quae soluta recusandae ratione exercitationem modi. Sapiente debitis nisi beatae nemo odio vel adipisci voluptatem quisquam doloribus.",
+      "availableSizes": ["Nike", "gucci", "HM"],
+      "price": 180.9
+    },
+    {
+      "_id": "dress3",
+      "category": "jeans",
+      "image": "/images/dress3.jpg",
+      "title": "Mens Jeans",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur natus laudantium eum cupiditate quae soluta recusandae ratione exercitationem modi. Sapiente debitis nisi beatae nemo odio vel adipisci voluptatem quisquam doloribus.",
+      "availableSizes": ["Nike", "gucci", "HM"],
+      "price": 140.9
+    },
+    {
+      "_id": "dress4",
+      "category": "shirt",
+      "image": "/images/dress4.jpg",
+      "title": "jeans",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur natus laudantium eum cupiditate quae soluta recusandae ratione exercitationem modi. Sapiente debitis nisi beatae nemo odio vel adipisci voluptatem quisquam doloribus.",
+      "availableSizes": ["zara"],
+      "price": 250.9
+    },
+    {
+      "_id": "dress5",
+      "category": "shirt",
+      "image": "/images/dress5.jpg",
+      "title": "Pants",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur natus laudantium eum cupiditate quae soluta recusandae ratione exercitationem modi. Sapiente debitis nisi beatae nemo odio vel adipisci voluptatem quisquam doloribus.",
+      "availableSizes": ["Nike", "HM", "zara"],
+      "price": 100.9
+    },
+    {
+      "_id": "dress6",
+      "category": "shirt",
+      "image": "/images/dress6.jpg",
+      "title": "Inner wear",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur natus laudantium eum cupiditate quae soluta recusandae ratione exercitationem modi. Sapiente debitis nisi beatae nemo odio vel adipisci voluptatem quisquam doloribus.",
+      "availableSizes": ["zara", "addidas"],
+      "price": 490.9
+    }
+  ]
+}
